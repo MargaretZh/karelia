@@ -1,4 +1,4 @@
-##![screenshot](https://raw.githubusercontent.com/MargaretZh/basemap/master/basemap1.png)
+##![screenshot](https://raw.githubusercontent.com/MargaretZh/karelia/master/karelia.png)
 
 ##Description 
 This is CartoCSS map style created with [TileMill](https://github.com/mapbox/tilemill).
